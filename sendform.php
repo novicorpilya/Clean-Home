@@ -5,7 +5,7 @@ $phone = $_POST['phone']; // Берём данные из input c атрибут
 
 $token = "2115694227:AAFpyeLF0Y9rlrpfcgYBnqbIgQ780tlMsB8"; // Тут пишем токен
 $chat_id = "-724087348"; // Тут пишем ID группы, куда будут отправляться сообщения
-$sitename = "cleanHome"; //Указываем название сайта
+$sitename = "cleanresume"; //Указываем название сайта
 
 $arr = array(
 
